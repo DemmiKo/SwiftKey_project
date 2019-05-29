@@ -1,0 +1,33 @@
+---
+title: "Coursera Milestone project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction 
+
+This is the Milestone Report for the Coursera Data Science Capstone project. This report shows the results of exploratory analysis and outlines the goals for the eventual application and algorithm.
+
+## Data
+
+The data were download from the path: "https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip"
+Following ti
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
